@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="newTicTacToe">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MyTicTacToe/newTicTacToe.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
